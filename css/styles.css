@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#contenedor{
+    width: 1000px;
+    height: 800px;
+    border: red;
+    border-style: solid;
+    border-width: 5px;
+
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
+
+#header{
+    height: 250px;
+    border: blue;
+    border-style: solid;
+    border-width: 5px;
+    margin: 0em
+}
+
+#logo{
+    height: 77%;
+    width: 200px;
+    border: greenyellow;
+    border-width: 5px;
+    border-style: solid;
+    float: left;
+    text-align: center;
+    margin: 0.5em;
+    padding: 1em;
+}
+
+#banner{
+    width: 674px;
+    height: 77%;
+    border: greenyellow;
+    border-width: 5px;
+    border-style: solid;
+    float: right;
+    text-align: center;
+
+    margin: 0.5em;
+    padding: 1em;
+}
+
+#contenido{
+    height: 65px;
+    border: blue;
+    border-style: solid;
+    border-width: 5px;
+    margin-top: 0.5em;
+}
+
+#conteni2{
+    height: 355px;
+    border: blue;
+    border-style: solid;
+    border-width: 5px;
+    margin-top: 0.5em;    
+}
+
+#article{
+    height: 83%;
+    width: 670px;
+    border: greenyellow;
+    border-width: 5px;
+    border-style: solid;
+    float: left;
+    text-align: center;
+    margin: 0.5em;
+    padding: 1em;
+
+}
+
+#aside{
+    height: 83%;
+    width: 212px;
+    border: greenyellow;
+    border-width: 5px;
+    border-style: solid;
+    float: right;
+    text-align: center;
+    margin-left: 0.5em;
+    margin-top: 0.5em;
+    margin-right: 0em;
+    padding: 1em;
+}
+#conteni3{
+    height: 65px;
+    border: blue;
+    border-style: solid;
+    border-width: 5px;
+    margin-top: 0.5em;
+}
